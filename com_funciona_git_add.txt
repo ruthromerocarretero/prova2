@@ -1,0 +1,1 @@
+Demostració de com funciona el git add . i git add com_funciona_git_add.txt
